@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepDetector</string>
+    <string name="nice">Nice</string>
+    <string name="detection">You took a step</string>
+</resources>
